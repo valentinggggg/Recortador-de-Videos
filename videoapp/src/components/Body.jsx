@@ -90,6 +90,9 @@ function Body() {
                 />
                 <button type="submit" className="ml-2 px-4 bg-green-600 text-white">Cargar</button>
             </form>
+            <div>
+                prueba
+            </div>
         </main>
     );
 }
